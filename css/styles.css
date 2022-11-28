@@ -1,4 +1,8 @@
 /* GENERAL */
+h3 {
+    font-size: 1.25em;
+    1px solid var(--color-underline-header);
+}
 section.[class^="note"] {
     padding: 0 5px;
     border-top: 1px solid var(--color-border-dark-5);
