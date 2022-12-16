@@ -1,14 +1,14 @@
 # 5e Complete
 The full D&amp;D 5th Edition compendium for Foundry VTT.
 
-This module was designed to fill in the holes of the 5e SRD that's included with Foundry, including all of the official classes and their subclasses, spells, races, and so on.
+Since Wizards of the Coast has not provided official compendiums for 5e books, I've decided to import all 5e content myself. 5e Complete will include the classes, spells, races, and so on that you'd find in the Dungeon Master's Guide, Sword Coast Adventurer's Guide, Tasha's Cauldron of Everything, and so on. While 5e Complete is still in its early stages, one day I hope to have everything you would hope to expect in an officially published module: macros and automation, a clean UI, recent updates, and more.
 
-A special thanks goes to my friends that have helped get this compendium to where it is, and also a big thank you to [Zhell](https://github.com/krbz999?tab=repositories) for helping with the macros.
+Additionally, you'll find a few homebrew additions. Don't worry, they won't interfere with the official content.
 
 ## Disclaimers
-- Please only utilize the resources in this module that you personally own. Treat this as you would downloading a video game ROM and respect the copyright of Wizards of the Coast and other 3rd parties whose homebrew content has been imported (homebrew sources have an asterisk at the end *)
-- This is a work in progress; many class features, spells, races, backgrounds, and feats are still missing.
-- The creatures have image references that you won't have, and I can't think of a way around that. Sorry.
+- 5e Complete contains copyrighted content. Please only utilize the resources in this module that you personally own. Some 3rd party content will be included, and such sources will be marked with an asterisk (*) in the "Source" field of an item, ex. "KCCC*" (Kibble's Compendium of Craft and Creation).
+- This is a work in progress; at this stage the most important parts are completed (classes, spells), but other things are missing or being built.
+- Creature artwork and tokens are a floating question mark on my agenda. I'm not sure how to best provide these without stepping on the toes of artists I respect. Suggestions welcome!
 
 ## Installation
 For copyright reasons, 5e Complete will not be published on official platforms. Please install using the `module.zip` or the following manifest:
@@ -27,3 +27,5 @@ For copyright reasons, 5e Complete will not be published on official platforms. 
 
 ### Final Remarks
 Thank you for trying out my module! Please provide feedback on what might be broken or missing. A massive task that I could use help with is automation and creating macros, so should you ever download this module and create your own macros I'd love to import them!
+
+A special thanks goes to my friends that have helped get this compendium to where it is, and also a big thank you to [Zhell](https://github.com/krbz999?tab=repositories) and everyone else over on the Foundry discord server for helping with the macros.
