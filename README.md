@@ -13,7 +13,7 @@ https://github.com/btbias/5e-complete/releases/latest/download/module.json
 ```
 
 ## Features
-5e Complete is a collection of compendiums that operate identically to the SRD compendiums. Simply open the compendium with the desired content, ex. `5e Clsses`, and click an item to view it, or click and drag it to a character to apply it.
+5e Complete is a collection of compendiums that operate identically to the SRD compendiums. Simply open the compendium with the desired content, ex. `5e Classes`, and click an item to view it, or click and drag it to a character to apply it.
 
 All classes and their subclasses leverage Foundry's built-in advancement tables. When you level up, you'll have features and spells granted by your class or subclass added to your character automatically.
 
