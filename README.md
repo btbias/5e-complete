@@ -40,7 +40,7 @@ Each item will have a Source value tied to the volume it came from, such as `TCE
 - [Dynamic Active Effects](https://gitlab.com/tposney/dae)
 - [Effective Transferal](https://github.com/GamerFlix/effective-transferral)
 - [Item Macro](https://github.com/sdenec/tidy5e-sheet)
-  - Enable `Character Sheet Hook` in Item Macro's Settings
+  - Enable `Character Sheet Hook` in Item Macro's settings.
 - [Magic Items](https://gitlab.com/riccisi/foundryvtt-magic-items)
 - [Roll Groups](https://github.com/krbz999/rollgroups)
 - [SmallTime](https://github.com/unsoluble/smalltime)
