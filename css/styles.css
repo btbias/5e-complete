@@ -56,3 +56,13 @@ table.spell-list span.component {
 [class^="portent-dialog"] button.reset, [class*=" portent-dialog"] button.reset {
     width: 384px;
 }
+
+/* Tidy5e Sheet */
+.tidy5e.sheet.item .sheet-body .tab.advancement .items-list .item div.item-summary {
+    flex-wrap: wrap;
+}
+.tidy5e.sheet.item .sheet-body .tab.advancement .items-list .item a.showItemArt {
+    width: 24px;
+    height: 24px;
+    text-indent: -9999px;
+}
