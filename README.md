@@ -27,26 +27,27 @@ Each item will have a Source value tied to the volume it came from, such as `TCE
 5e Complete has been designed utilizing the following modules; it's recommended you use them, but they are not required:
 
 ### Visual Enhancements
-- [Automated Animations](https://github.com/otigon/automated-jb2a-animations)
-- [Dice So Nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice)
-- [JB2A](https://www.patreon.com/JB2A)
-  - Their discord server has a preset you can download for Automated Animations, highly recommended!
-  - Not absolutely required, but patrons get access to a larger set of animated assets.
-- [Sequencer](https://github.com/fantasycalendar/FoundryVTT-Sequencer)
-- [Tidy5e Sheet](https://github.com/sdenec/tidy5e-sheet)
+
+In order of simplicity:
+- [Dice So Nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice): Roll 3D dice on the canvas.
+- [Tidy5e Sheet](https://github.com/sdenec/tidy5e-sheet): Cleans up the different item sheets and makes them look nicer.
   - To set Tidy5e as the default sheet, open the **5e Macros** compendium and run the `Tidy5e Default Sheet` macro.
+- [JB2A](https://www.patreon.com/JB2A) with [Automated Animations](https://github.com/otigon/automated-jb2a-animations) and [Sequencer](https://github.com/fantasycalendar/FoundryVTT-Sequencer): Create animated spell effects and weapon attacks.
+  - JB2A's discord server has a preset you can download for Automated Animations, highly recommended!
+  - Not absolutely required, but JB2A patrons get access to a larger set of animated assets, and it's cheap.
 
 ### Automation &amp; Utility
-- [Dynamic Active Effects](https://gitlab.com/tposney/dae)
-- [Effective Transferal](https://github.com/GamerFlix/effective-transferral)
-- [Item Macro](https://github.com/sdenec/tidy5e-sheet)
-  - Enable `Character Sheet Hook` in Item Macro's settings.
-- [Magic Items](https://gitlab.com/riccisi/foundryvtt-magic-items)
-- [Roll Groups](https://github.com/krbz999/rollgroups)
-- [SmallTime](https://github.com/unsoluble/smalltime)
-- [Wild Magic Surge 5e](https://github.com/johnnolan/wild-magic-surge-5e)
+
+In order of simplicity:
+- [SmallTime](https://github.com/unsoluble/smalltime): Adds a simple time tracker. Interacts with Times Up.
+- [Roll Groups](https://github.com/krbz999/rollgroups): Weapons and spells with different damage types or amounts can be assigned unique buttons that display in the chat card.
+- [Wild Magic Surge 5e](https://github.com/johnnolan/wild-magic-surge-5e): Trigger wild magic surge (and other effects) automatically.
   - Open the **5e Roll Tables** compendium and add `Wild Magic Surge Table` and `Barbarian Wild Surge` to your local roll tables.
   - In Wild Magic Surge 5e's settings, change the values of `Roll Table Name` and `Path of Wild Magic Roll Table` to match the tables you just added.
+- [Item Macro](https://github.com/sdenec/tidy5e-sheet): Allows the execution of macros directly from an item.
+  - Enable `Character Sheet Hook` in Item Macro's settings.
+- [Magic Items](https://gitlab.com/riccisi/foundryvtt-magic-items): Adds additional functionality to magic items such as charges that replenish daily and spells that consume said charges.
+- [Dynamic Active Effects](https://gitlab.com/tposney/dae) with [Effective Transferal](https://github.com/GamerFlix/effective-transferral), [Warp Gate](https://github.com/trioderegion/warpgate), and [Times Up](https://gitlab.com/tposney/times-up): This combination of modules offers an **immense** suite of features, but the most straight-forward use is being able to create time-based effects. For example, casting bless on allies creates the 1d4 bonus to attacks and saving throws. This effect will automatically expire after one minute of combat.
 
 ## Final Remarks
 A special thanks goes to my friends that have helped get this compendium to where it is, and also a big thank you to [Zhell](https://github.com/krbz999?tab=repositories), [Honeybadger](https://ko-fi.com/badgerwerks), Freeze, Flix, and everyone else over on the [Foundry discord server](https://discord.gg/foundryvtt) for helping with the macros.
