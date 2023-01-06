@@ -1,7 +1,8 @@
 # 5e Complete
-![Supported Foundry Versions](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://github.com/btbias/5e-complete/releases/latest/download/module.json)
-![Latest Release Download Count](https://img.shields.io/github/downloads/btbias/5e-complete/latest/module.zip)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-btbias-00B9FE?logo=kofi)](https://ko-fi.com/btbias)
+[![Supported Foundry Versions](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https://github.com/btbias/5e-complete/releases/latest/download/module.json)](#)
+[![Total Downloads](https://img.shields.io/github/downloads/btbias/5e-complete/total?label=Total%20Downloads)](#)
+[![Latest Release Download Count](https://img.shields.io/github/downloads/btbias/5e-complete/latest/total?label=Latest%20Downloads)](#)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-btbias-00B9FE?logo=kofi&color=blue)](https://ko-fi.com/btbias)
 
 Welcome to the 5e Complete module for Foundry VTT! This module adds the classes, races, spells, and other resources that are missing from the 5e System Reference Document (SRD). With this module installed you'll have access to everything you need to run a complete 5th edition Dungeons & Dragons campaign within Foundry VTT.
 
