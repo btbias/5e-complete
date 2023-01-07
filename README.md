@@ -46,9 +46,10 @@ In order of simplicity:
   - Enable `Character Sheet Hook` in Item Macro's settings.
 - [Wild Magic Surge 5e](https://github.com/johnnolan/wild-magic-surge-5e)
   - Open the **5e Roll Tables** compendium and add `Wild Magic Surge Table` and `Barbarian Wild Surge` to your local roll tables.
-  - In Wild Magic Surge 5e's settings, change the values of `Roll Table Name` and `Path of Wild Magic Roll Table` to match the tables you just added.
+  - In Wild Magic Surge 5e's settings, change the values of `Roll Table Name` and `Path of Wild Magic Roll Table` to match the tables you just added. Also set `Auto Roll Table` to Auto Roll Table if you want surges to automatically roll.
 - [Magic Items](https://gitlab.com/riccisi/foundryvtt-magic-items)
 - [Dynamic Active Effects](https://gitlab.com/tposney/dae) with [Effective Transferal](https://github.com/GamerFlix/effective-transferral), [Warp Gate](https://github.com/trioderegion/warpgate), and [Times Up](https://gitlab.com/tposney/times-up)
+  - If you want users to be able to automate their own effects, open `Permission Configuration` and allow Players to Configure Token Settings. WARNING: This will grant access to browsing your Foundry assets! A workaround is to promote players you trust to the Trusted Player role.
 
 ## Final Remarks
 A special thanks goes to my friends that have helped get this compendium to where it is, and also a big thank you to [Zhell](https://github.com/krbz999?tab=repositories), [Honeybadger](https://ko-fi.com/badgerwerks), Freeze, Flix, and everyone else over on the [Foundry discord server](https://discord.gg/foundryvtt) for helping with the macros.
